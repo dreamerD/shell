@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "csapp.h": "c",
+        "setjmp.h": "c",
+        "stdarg.h": "c",
+        "stdlib.h": "c",
+        "mman.h": "c",
+        "socket.h": "c"
+    }
+}
